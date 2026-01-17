@@ -4,3 +4,5 @@ https://leetcode.com/problems/isomorphic-strings/
 https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
 424. Longest Repeating Character Replacement
 https://leetcode.com/problems/longest-repeating-character-replacement/
+394. Decode String
+https://leetcode.com/problems/decode-string/
